@@ -15,6 +15,13 @@ We address this by:
 - Hyperparameter tuning for better performance
 - Comparing results with visual metrics
 
+## Dataset
+The dataset used in this project is the **Credit Card Fraud Detection** dataset from [Kaggle](https://www.kaggle.com/datasets/mexwell/credit-card-fraud).  
+
+⚠ **Note:** The file `creditcard_sample.csv` included in this repository is **only a small random sample** of the full dataset.  
+It is provided for demonstration purposes so that the notebook can be executed quickly.  
+For full-scale training and evaluation, please download the complete dataset from the Kaggle link above.
+
 ## 📂 Project Steps
 1. **Data Preprocessing**
    - Checked for missing values & data types
