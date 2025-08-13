@@ -51,10 +51,10 @@ We address this by:
 
 ## 🖥 Technologies Used
 - **Python**
-- **Pandas, NumPy**
+- **Pandas**
 - **Scikit-learn**
 - **XGBoost**
-- **Matplotlib, Seaborn**
+- **Matplotlib**
 
 ## 🚀 Future Improvements
 - Try **deep learning models** (LSTMs) for sequential transaction analysis.
